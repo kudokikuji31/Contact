@@ -1,0 +1,36 @@
+#topbar{
+    overflow: hidden;
+    background-color: rgb(6, 1, 12);
+    
+  }
+  #topbar a{
+    display: block;
+    float: left;
+    color: #F2F2F2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  #topbar a:hover{
+    background-color: #DDD;
+    color: #000;
+  }
+  #topbar a.active{
+    background-color: deepskyblue;
+    color: #FFF;
+  }
+  body {
+    background-color: cornsilk;
+  }
+  .infor{
+    width: 200px;
+    height: 100px;
+    padding: 12px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+
+  }
+
+  
+  
